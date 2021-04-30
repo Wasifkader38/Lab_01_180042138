@@ -15,7 +15,7 @@ setTimeout(() => {
 
 //local Module
 //Global Module
-//3rd Party Module/Package
+//3rd Party Module/Package---We have to install these modules from Node Package Manager(NPM)
 
 //setInterval- runs as a loop
 //setTimeout- runs only once
